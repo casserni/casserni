@@ -10,12 +10,11 @@
 ---
 
 ### 💻 GitHub Stats
+<!-- span align=""><img src="https://github-readme-stats-casserni.vercel.app/api?username=casserni&count_private=true&show_icons=true&hide=contribs&include_allx_commits=true" /></span> -->
+<span align=""><img src="https://github-readme-stats-casserni.vercel.app/api/top-langs/?username=casserni&layout=compact" /></span>
 
-<span align=""><img src="https://github-readme-stats.vercel.app/api?username=casserni&count_private=true&show_icons=true&hide=issues,contribs&include_all_commits=true" /></span>
-<span align=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=casserni&layout=compact" /></span>
 
+<!-- ### 🏆 Trophy Showcase -->
 
-### 🏆 Trophy Showcase
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=casserni)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=casserni)](https://github.com/ryo-ma/github-profile-trophy) -->
 
